@@ -10,7 +10,7 @@ omikujis = [ "大吉","吉","末吉","凶","大凶"]
 # を表示するアプリケーション
 
 
-
+kkkkkkkkkkk
 
 random = Random.new()
 num = random.rand(20) #0~99 までの数字
